@@ -1,0 +1,15 @@
+T__0=1
+T__1=2
+NEWLINE=3
+INT=4
+SUM=5
+SUB=6
+MULTI=7
+DIV=8
+WHITESPACE=9
+'('=1
+')'=2
+'+'=5
+'-'=6
+'*'=7
+'/'=8
